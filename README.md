@@ -1,4 +1,4 @@
-# 🛡️ LeakShield v2.1 — Advanced ML Pipeline Leakage Detection
+# 🛡️ LeakShield — AI System to Detect Data Leakage using ML Pipelines
 
 > 6 statistical detectors + ML Pipeline Auditor + 8 Framework Knowledge Bases + animated React dashboard
 
